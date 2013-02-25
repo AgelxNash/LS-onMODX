@@ -1,0 +1,1 @@
+Блок LiveStreet для вывода сайтов на MODX с http://on-modx.ru

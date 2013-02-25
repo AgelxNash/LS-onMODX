@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Plugin Modxsite</lang>
+		<lang name="russian">Сайты на MODX</lang>
+	</name>
+	<author>
+		<lang name="default">Agel Nash (iam@agel-nash.ru) </lang>
+	</author>
+	<homepage>http://agel-nash.ru</homepage>
+	<version>1.0</version>
+	<requires>
+		<livestreet>0.4.2</livestreet>
+		<plugins></plugins>
+	</requires>
+	<description>
+		<lang name="default">Сайты на MODX</lang>
+		<lang name="russian">Вывод блока со скриншотом сайта на MODX.</lang>
+	</description>
+</plugin>
